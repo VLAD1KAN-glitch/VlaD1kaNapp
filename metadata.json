@@ -1,0 +1,6 @@
+{
+  "name": "OneTask",
+  "description": "A high-performance Task Management Application inspired by Samsung One UI design philosophy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
